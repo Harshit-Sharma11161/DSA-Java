@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0547-number-of-provinces) |
+## Array
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0046-permutations) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
