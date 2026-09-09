@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
@@ -22,9 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0046-permutations) |
 | [0216-combination-sum-iii](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0216-combination-sum-iii) |
+| [0994-rotting-oranges](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0994-rotting-oranges) |
 ## Backtracking
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0046-permutations) |
 | [0216-combination-sum-iii](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0216-combination-sum-iii) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
