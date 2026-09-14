@@ -51,4 +51,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0542-01-matrix](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0542-01-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/1162-as-far-from-land-as-possible) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0013-roman-to-integer) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
