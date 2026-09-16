@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0424-longest-repeating-character-replacement) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Math
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0424-longest-repeating-character-replacement) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Topological Sort
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
 |  |
