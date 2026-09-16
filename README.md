@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0013-roman-to-integer) |
+| [0076-minimum-window-substring](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0076-minimum-window-substring) |
 ## Math
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0013-roman-to-integer) |
+| [0076-minimum-window-substring](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0076-minimum-window-substring) |
 ## Topological Sort
 |  |
 | ------- |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0802-find-eventual-safe-states) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
