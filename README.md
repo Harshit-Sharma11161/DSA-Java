@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1162-as-far-from-land-as-possible](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/1162-as-far-from-land-as-possible) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1765-map-of-highest-peak](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/1765-map-of-highest-peak) |
 ## Backtracking
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
 |  |
 | ------- |
@@ -100,4 +102,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
