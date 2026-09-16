@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0424-longest-repeating-character-replacement) |
 ## Math
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0424-longest-repeating-character-replacement) |
 ## Topological Sort
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
