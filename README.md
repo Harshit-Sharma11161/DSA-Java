@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0046-permutations) |
+| [0063-unique-paths-ii](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0063-unique-paths-ii) |
 | [0216-combination-sum-iii](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0216-combination-sum-iii) |
 | [0403-frog-jump](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0403-frog-jump) |
 | [0542-01-matrix](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0542-01-matrix) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0063-unique-paths-ii) |
 | [0542-01-matrix](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0994-rotting-oranges) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0063-unique-paths-ii) |
 | [0403-frog-jump](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0403-frog-jump) |
 | [0542-01-matrix](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0542-01-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/1162-as-far-from-land-as-possible) |
