@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0802-find-eventual-safe-states) |
+| [1020-number-of-enclaves](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/1020-number-of-enclaves) |
 | [1162-as-far-from-land-as-possible](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/1162-as-far-from-land-as-possible) |
 | [1765-map-of-highest-peak](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/1765-map-of-highest-peak) |
 ## Union-Find
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
@@ -42,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/1004-max-consecutive-ones-iii) |
+| [1020-number-of-enclaves](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/1020-number-of-enclaves) |
 | [1162-as-far-from-land-as-possible](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/1162-as-far-from-land-as-possible) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1765-map-of-highest-peak](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/1765-map-of-highest-peak) |
@@ -59,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/1020-number-of-enclaves) |
 | [1162-as-far-from-land-as-possible](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/1162-as-far-from-land-as-possible) |
 | [1765-map-of-highest-peak](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/1765-map-of-highest-peak) |
 ## Dynamic Programming
