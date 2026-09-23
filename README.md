@@ -4,12 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0802-find-eventual-safe-states) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0733-flood-fill) |
@@ -20,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
@@ -32,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0046-permutations) |
 | [0063-unique-paths-ii](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0063-unique-paths-ii) |
 | [0120-triangle](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0120-triangle) |
+| [0200-number-of-islands](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0216-combination-sum-iii) |
 | [0403-frog-jump](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0403-frog-jump) |
 | [0542-01-matrix](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0542-01-matrix) |
@@ -51,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0063-unique-paths-ii) |
+| [0200-number-of-islands](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0994-rotting-oranges) |
