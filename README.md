@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0785-is-graph-bipartite) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0733-flood-fill) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0802-find-eventual-safe-states) |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0207-course-schedule) |
 | [0802-find-eventual-safe-states](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0802-find-eventual-safe-states) |
 ## Kosaraju's Algorithm
 |  |
@@ -148,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0785-is-graph-bipartite) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
