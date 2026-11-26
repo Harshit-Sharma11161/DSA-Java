@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0547-number-of-provinces) |
+| [0572-subtree-of-another-tree](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0785-is-graph-bipartite) |
@@ -165,8 +166,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0110-balanced-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0110-balanced-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0572-subtree-of-another-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
