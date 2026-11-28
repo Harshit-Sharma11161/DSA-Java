@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0063-unique-paths-ii) |
 | [0120-triangle](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0130-surrounded-regions) |
+| [0198-house-robber](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0216-combination-sum-iii) |
 | [0403-frog-jump](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0403-frog-jump) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0063-unique-paths-ii) |
 | [0091-decode-ways](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0120-triangle) |
+| [0198-house-robber](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0198-house-robber) |
 | [0403-frog-jump](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0403-frog-jump) |
 | [0542-01-matrix](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/0542-01-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/Harshit-Sharma11161/DSA-Java/tree/master/1162-as-far-from-land-as-possible) |
